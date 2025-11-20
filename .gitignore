@@ -1,0 +1,9 @@
+# Ignorer tous les fichiers compilés Java
+*.class
+
+# Ignorer les dossiers de build (IntelliJ, Eclipse, etc.)
+/out/
+/bin/
+/target/
+.idea/
+*.iml
